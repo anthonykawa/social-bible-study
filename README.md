@@ -1,1 +1,2 @@
 # social-bible-study
+Social bible study is a tool to allow for user created bible study plans, and to allow for comunication between a group of people that are pursuing understanding of God's word as a group.
